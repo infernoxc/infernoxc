@@ -1,0 +1,64 @@
+<div align="center">
+
+<img src="images/banner.png" alt="InFerNoxC - Ishan - open-source OBS tools and creator tech" width="100%">
+
+### Hey, I'm Ishan 👋
+
+I stream PUBG on Kick, and I build the tools I wish I had as a streamer: **lightweight, free, open-source add-ons for OBS Studio on Windows.**
+
+[![Kick](https://img.shields.io/badge/Kick-infernoxc-53fc18?logo=kick&logoColor=white)](https://kick.com/infernoxc)
+[![Twitch](https://img.shields.io/badge/Twitch-infernoxc00-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/infernoxc00)
+[![YouTube](https://img.shields.io/badge/YouTube-@infernoxc00-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@infernoxc00)
+[![Instagram](https://img.shields.io/badge/Instagram-infernoxc00-E4405F?logo=instagram&logoColor=white)](https://instagram.com/infernoxc00)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/fF2xKwBxyt)
+
+</div>
+
+---
+
+## 🧰 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 [IXC Music](https://github.com/infernoxc/ixc-music)
+A YouTube music player and control dock for OBS Studio. Search, queue, shuffle, repeat, **autoplay similar songs**, and resume
+when OBS starts. It plays through a normal OBS audio source, so you choose which tracks get the music.
+
+[![Download](https://img.shields.io/github/v/release/infernoxc/ixc-music?label=download&color=e3141e)](https://github.com/infernoxc/ixc-music/releases/latest)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [IXC ChatBox](https://github.com/infernoxc/ixc-chatbox)
+Twitch, Kick and YouTube chat in **one OBS dock**, with a reply box, `!command` and `@user` suggestions, neural
+text-to-speech, an on-stream overlay and an optional phone view (via Streamer.bot).
+
+[![Download](https://img.shields.io/github/v/release/infernoxc/ixc-chatbox?label=download&color=e3141e)](https://github.com/infernoxc/ixc-chatbox/releases/latest)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## 🛠️ What I work with
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![Streamer.bot](https://img.shields.io/badge/Streamer.bot-5b3fd1)
+
+## 🎯 What I care about
+- **Light on your PC.** Tools that don't steal FPS from the game you're streaming.
+- **Easy for everyone.** One-click installers, no admin rights, clear guides for people who've never used GitHub.
+- **Open and safe.** MIT-licensed code, no accounts or API keys, and everything runs locally on your PC.
+
+## 📬 Say hi
+Catch me live on [Kick](https://kick.com/infernoxc), or join the [Discord](https://discord.com/invite/fF2xKwBxyt).
+Found a bug or have an idea for one of the tools? Open an issue in that project's repository.
