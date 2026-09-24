@@ -23,19 +23,19 @@ I stream PUBG on Kick, and I build the tools I wish I had as a streamer: **light
 <td width="50%" valign="top">
 
 ### 🎵 [IXC Music](https://github.com/infernoxc/ixc-music)
-A YouTube music player and control dock for OBS Studio. Search, queue, shuffle, repeat, **autoplay similar songs**, and resume
-when OBS starts. It plays through a normal OBS audio source, so you choose which tracks get the music.
+A music player and control dock for OBS Studio. Search YouTube or paste **YouTube / Spotify links**, queue, autoplay similar songs,
+and choose with one click whether **Kick, Twitch or YouTube** viewers hear the music. Control it from your phone too.
 
 [![Download](https://img.shields.io/github/v/release/infernoxc/ixc-music?label=download&color=e3141e)](https://github.com/infernoxc/ixc-music/releases/latest)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 [IXC ChatBox](https://github.com/infernoxc/ixc-chatbox)
-Twitch, Kick and YouTube chat in **one OBS dock**, with a reply box, `!command` and `@user` suggestions, neural
-text-to-speech, an on-stream overlay and an optional phone view (via Streamer.bot).
+Twitch, Kick and YouTube chat in **one OBS dock**, with a reply box, `!command` and `@user` suggestions, **chat TTS**
+with smart filters and Indian voices, an on-stream overlay and a **phone remote that works over mobile data** (via Streamer.bot).
 
 [![Download](https://img.shields.io/github/v/release/infernoxc/ixc-chatbox?label=download&color=e3141e)](https://github.com/infernoxc/ixc-chatbox/releases/latest)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
@@ -57,7 +57,7 @@ text-to-speech, an on-stream overlay and an optional phone view (via Streamer.bo
 ## 🎯 What I care about
 - **Light on your PC.** Tools that don't steal FPS from the game you're streaming.
 - **Easy for everyone.** One-click installers, no admin rights, clear guides for people who've never used GitHub.
-- **Open and safe.** MIT-licensed code, no accounts or API keys, and everything runs locally on your PC.
+- **Open and safe.** MIT-licensed code, no accounts or API keys needed, and everything runs on your PC; the phone remote only opens when you scan its one-time QR code.
 
 ## 📬 Say hi
 Catch me live on [Kick](https://kick.com/infernoxc), or join the [Discord](https://discord.com/invite/fF2xKwBxyt).
