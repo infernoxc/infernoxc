@@ -43,6 +43,20 @@ with smart filters and Indian voices, an on-stream overlay and a **phone remote 
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📷 [IXC Camera](https://github.com/infernoxc/ixc-camera)
+Your webcam, upgraded: a new camera called **IXC Camera** that OBS, Discord, Zoom, Teams and browsers can pick like any webcam.
+Live **picture controls**, **Smooth motion** for a full frame rate in dim rooms, optional **face tracking** and effects like **Blush Tone**,
+plus profiles and hotkeys. Built for low-end PCs: no driver, no OBS plugin, no cloud.
+
+[![Download](https://img.shields.io/github/v/release/infernoxc/ixc-camera?label=download&color=e3141e)](https://github.com/infernoxc/ixc-camera/releases/latest)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ## 🛠️ What I work with
@@ -52,6 +66,7 @@ with smart filters and Indian voices, an on-stream overlay and a **phone remote 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Streamer.bot](https://img.shields.io/badge/Streamer.bot-5b3fd1)
 
 ## 🎯 What I care about
