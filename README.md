@@ -20,36 +20,46 @@ I stream PUBG on Kick, and I build the tools I wish I had as a streamer: **light
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🎵 [IXC Music](https://github.com/infernoxc/ixc-music)
-A music player and control dock for OBS Studio. Search YouTube or paste **YouTube / Spotify links**, queue, autoplay similar songs,
-and choose with one click whether **Kick, Twitch or YouTube** viewers hear the music. Control it from your phone too.
-
-[![Download](https://img.shields.io/github/v/release/infernoxc/ixc-music?label=download&color=e3141e)](https://github.com/infernoxc/ixc-music/releases/latest)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 [IXC ChatBox](https://github.com/infernoxc/ixc-chatbox)
-Twitch, Kick and YouTube chat in **one OBS dock**, with a reply box, `!command` and `@user` suggestions, **chat TTS**
-with smart filters and Indian voices, an on-stream overlay and a **phone remote that works over mobile data** (via Streamer.bot).
+### 🎛️ [IXC Streamer](https://github.com/infernoxc/ixc-chatbox): Music + ChatBox in one program
+Everything a streamer needs next to OBS, in **one free program**:
+- **Music player:** YouTube search, YouTube and Spotify links, a queue, playlists, song requests, and per-platform audio (Kick, Twitch or YouTube).
+- **Chat:** Twitch, Kick and YouTube chat in one OBS dock, with replies and `!command` suggestions.
+- **Chat voice:** natural **Indian and Hindi voices** (Azure).
+- **New in 3.3.2:** **channel point rewards** (song requests, skip, volume, sound effects), **20 sound effects**, and **alerts read aloud**.
+- **Also:** timers, overlays and a phone remote.
 
 [![Download](https://img.shields.io/github/v/release/infernoxc/ixc-chatbox?label=download&color=e3141e)](https://github.com/infernoxc/ixc-chatbox/releases/latest)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<sub>Formerly IXC Music and IXC ChatBox. Both repositories ([music](https://github.com/infernoxc/ixc-music), [chatbox](https://github.com/infernoxc/ixc-chatbox)) publish the same release.</sub>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### 🚀 [IXC PC Ready](https://github.com/infernoxc/ixc-pc-ready)
+A free **performance toolkit for Windows gamers and streamers**:
+- **Game Mode** and a **live per-app monitor** of CPU, GPU and RAM.
+- **Cleanup**, a **startup manager** and **smart tuning** for your hardware.
+
+Nothing changes until you press a button, and every change can be undone.
+
+[![Download](https://img.shields.io/github/v/release/infernoxc/ixc-pc-ready?label=download&color=e3141e)](https://github.com/infernoxc/ixc-pc-ready/releases/latest)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📷 [IXC Camera](https://github.com/infernoxc/ixc-camera)
 Your webcam, upgraded: a new camera called **IXC Camera** that OBS, Discord, Zoom, Teams and browsers can pick like any webcam.
-Live **picture controls**, **Smooth motion** for a full frame rate in dim rooms, optional **face tracking** and effects like **Blush Tone**,
-plus profiles and hotkeys. Built for low-end PCs: no driver, no OBS plugin, no cloud.
+- Live **picture controls** and **Smooth motion** for a full frame rate in dim rooms.
+- Optional **face tracking**, plus effects like **Blush Tone**.
+
+No driver, no OBS plugin, no cloud.
 
 [![Download](https://img.shields.io/github/v/release/infernoxc/ixc-camera?label=download&color=e3141e)](https://github.com/infernoxc/ixc-camera/releases/latest)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
