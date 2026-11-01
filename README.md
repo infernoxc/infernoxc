@@ -22,7 +22,7 @@ I stream PUBG on Kick, and I build the tools I wish I had as a streamer: **light
 <tr>
 <td colspan="2" valign="top">
 
-### 🎛️ [IXC Streamer](https://github.com/infernoxc/ixc-chatbox): Music + ChatBox in one program
+### 🎛️ [IXC Streamer](https://github.com/infernoxc/ixc-streamer): Music + ChatBox in one program
 Everything a streamer needs next to OBS, in **one free program**:
 - **Music player:** YouTube search, YouTube and Spotify links, a queue, playlists, song requests, and per-platform audio (Kick, Twitch or YouTube).
 - **Chat:** Twitch, Kick and YouTube chat in one OBS dock, with replies and `!command` suggestions.
@@ -30,10 +30,10 @@ Everything a streamer needs next to OBS, in **one free program**:
 - **New in 3.3.2:** **channel point rewards** (song requests, skip, volume, sound effects), **20 sound effects**, and **alerts read aloud**.
 - **Also:** timers, overlays and a phone remote.
 
-[![Download](https://img.shields.io/github/v/release/infernoxc/ixc-chatbox?label=download&color=e3141e)](https://github.com/infernoxc/ixc-chatbox/releases/latest)
+[![Download](https://img.shields.io/github/v/release/infernoxc/ixc-streamer?label=download&color=e3141e)](https://github.com/infernoxc/ixc-streamer/releases/latest)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-<sub>Formerly IXC Music and IXC ChatBox. Both repositories ([music](https://github.com/infernoxc/ixc-music), [chatbox](https://github.com/infernoxc/ixc-chatbox)) publish the same release.</sub>
+<sub>Formerly IXC Music and IXC ChatBox, now one program.</sub>
 
 </td>
 </tr>
